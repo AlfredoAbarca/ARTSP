@@ -1,0 +1,9 @@
+C:\Users\aabarca\Documents\Visual Studio 2010\Projects\ARTSP\ARTSP\bin\Debug\ARTSP.exe
+C:\Users\aabarca\Documents\Visual Studio 2010\Projects\ARTSP\ARTSP\bin\Debug\ARTSP.pdb
+C:\Users\aabarca\Documents\Visual Studio 2010\Projects\ARTSP\ARTSP\bin\Debug\ARTSP.xml
+C:\Users\aabarca\Documents\Visual Studio 2010\Projects\ARTSP\ARTSP\obj\x86\Debug\ARTSP.Form1.resources
+C:\Users\aabarca\Documents\Visual Studio 2010\Projects\ARTSP\ARTSP\obj\x86\Debug\ARTSP.Resources.resources
+C:\Users\aabarca\Documents\Visual Studio 2010\Projects\ARTSP\ARTSP\obj\x86\Debug\ARTSP.vbproj.GenerateResource.Cache
+C:\Users\aabarca\Documents\Visual Studio 2010\Projects\ARTSP\ARTSP\obj\x86\Debug\ARTSP.exe
+C:\Users\aabarca\Documents\Visual Studio 2010\Projects\ARTSP\ARTSP\obj\x86\Debug\ARTSP.xml
+C:\Users\aabarca\Documents\Visual Studio 2010\Projects\ARTSP\ARTSP\obj\x86\Debug\ARTSP.pdb
