@@ -28,6 +28,7 @@ Al hacerlo les deberá aparecer una ventana como la siguiente:
 <p><img src=https://github.com/AlfredoAbarca/ARTSP/blob/master/images/Image1.png/></p>
 
 3.- Seleccionar los datos que se piden: 
+
 **Importante:** 
 
 La carpeta de origen (desde la cual leerá la información de las pruebas), corresponde a la que tiene el nombre de "***atomics***" dentro del repositorio de **Red Canary.**
