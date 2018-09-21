@@ -38,10 +38,10 @@ La carpeta de origen (desde la cual leerá la información de las pruebas), corr
 <p><img src=https://github.com/AlfredoAbarca/ARTSP/blob/master/images/Image2.png/></p>
 
 7.- Vaya al directorio que eligió como destino y verá como la aplicación transformó las pruebas de este formato: 
-<p><img src=https://github.com/AlfredoAbarca/ARTSP/blob/master/images/Image3.png/></p>
+<p><img src=https://github.com/AlfredoAbarca/ARTSP/blob/master/images/Image4.png/></p>
 
 A este otro: 
-<p><img src=https://github.com/AlfredoAbarca/ARTSP/blob/master/images/Image4.png/></p>
+<p><img src=https://github.com/AlfredoAbarca/ARTSP/blob/master/images/Image3.png/></p>
 
 Mucho mas fácil y legible, además de concentrar todas las pruebas de una misma plataforma/lenguaje en un sólo archivo, listo para ser adecuado de acuerdo a sus necesidades particulares.  ;) 
 
