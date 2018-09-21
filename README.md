@@ -19,6 +19,7 @@ La herramienta es muy sencilla de utilizar, en este repositorio está el código
 > Si no está familiarizado con el ambiente o lenguaje de programación .NET, puede simplemente descargar el archivo ejecutable que está en la carpeta con el nombre de BIN. 
 
 Pasos a seguir: 
+
 1.- Clonar o descargar el repositorio de [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) en su equipo (Windows).
 
 2.- Compilar el proyecto o descargar el archivo ejecutable en su equipo, y luego simplemente ejecutarlo. 
@@ -28,6 +29,7 @@ Al hacerlo les deberá aparecer una ventana como la siguiente:
 
 3.- Seleccionar los datos que se piden: 
 **Importante:** 
+
 La carpeta de origen (desde la cual leerá la información de las pruebas), corresponde a la que tiene el nombre de "***atomics***" dentro del repositorio de **Red Canary.**
 
 4.- Seleccionar el directorio donde se almacenarán los scripts generados y qué tipo de scripts se generarán. 
